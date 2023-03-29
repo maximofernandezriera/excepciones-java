@@ -21,14 +21,14 @@ Errores de ejecución (Runtime errors): son situaciones interas de la aplicació
 
 Se realiza utilizando la siguiente sintaxis:
 
-try {
-    instrucciones;
-} catch (Exception e) {
-    instruccinoes;
-} finally {
-    instrucciones
-}
-finally no es obligatorio, y podemos incluir más de un bloque catch.
+        try {
+            instrucciones;
+        } catch (Exception e) {
+            instruccinoes;
+        } finally {
+            instrucciones
+        }
+        finally no es obligatorio, y podemos incluir más de un bloque catch.
 
 # 4- Bloque try
 Debe envolver las sentencias que son susceptibles de provocar uno o varios tipos de excepción. Debemos agrupar las sentencias que vayan a tener un tratamiento idéntico de la situación excepcional.
