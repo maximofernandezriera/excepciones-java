@@ -5,10 +5,10 @@ El término excepción es una abreviatura de situación excepcional. Se trata de
 
 El uso de excepciones tiene varias ventajas:
 
-Permiten separar el código de tratamiento de errores del código normal.
-Evitan que haya errores inadvertidos.
-Permiten la propagación de los errores.
-Permiten agrupar en un lugar común el tratamiento de errores.
+- Permiten separar el código de tratamiento de errores del código normal.
+- Evitan que haya errores inadvertidos.
+- Permiten la propagación de los errores.
+- Permiten agrupar en un lugar común el tratamiento de errores.
 
 ## 2- Tipos de Excepciones
 Podemos agrupar las excepciones en 3 grandes tipos:
