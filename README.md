@@ -63,3 +63,7 @@ Sirven como manejadores de las situaciones excepcionales. Puede haber más de un
         }
 # 6- Bloque finally
 Se ejecuta siempre, tanto si hemos terminado correctamente el bloque try como el bloque catch. Se suele utilizar como código que asegura el cierre de recursos abiertos (ficheros, bases de datos, …).
+
+# Los puntos 3, 4 y 5 podemos probarlos aquí.
+
+- https://www.w3schools.com/java/java_try_catch.asp
