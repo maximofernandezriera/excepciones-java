@@ -1,4 +1,4 @@
-# Uso de Excepciones en Java
+# El uso de Excepciones en Java
 
 ## 1- Excepciones
 El término excepción es una abreviatura de situación excepcional. Se trata de una situación que altera la ejecución normal de un programa. Por ejemplo, en una calculadura, un usuario intenta realiza la división 2 / 0. En ese momento, el sistema crea un objeto, que se llama objeto de excepción y lo pasa de una llamada de método a otra, buscando quien pueda hacerse cargo. Si no existe nadie, será la propia JVM quien lo haga.
